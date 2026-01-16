@@ -1,0 +1,14 @@
+# Ignore Python junk
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+env/
+.DS_Store
+
+# Ignore Large Data & Secrets
+*.csv
+*.zip
+*.h5
+*.pkl
+.env
